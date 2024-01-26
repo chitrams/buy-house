@@ -1,0 +1,5 @@
+﻿address,postcode,bedrooms,bathrooms,parking,date_of_valuation,valuation,fixed_valuation,week_income,built_year,built_size,block_size
+"23 Cartography Lane, Subiaco 6008",6008,4,3,2,1/03/2021,"1,014,000",yes,400,2023,121,174
+"23 Cartography Lane, Subiaco 6008",6008,4,3,2,1/01/2024,"1,350,000",no,400,2023,121,174
+"5 Fifth Avenue, Kensington",6151,5,3,1,25/08/2012,"700,000",yes,NA,1948,290,770
+"5 Fifth Avenue, Kensington",6151,5,3,1,25/12/2023,"1,150,000",no,NA,1948,290,770
